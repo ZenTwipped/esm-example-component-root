@@ -1,6 +1,6 @@
 {
-  "name": "package1",
-  "version": "0.0.0",
+  "name": "@ZenTwipped/webpack-esm-component-root",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -9,5 +9,8 @@
   "license": "UNLICENSED",
   "peerDependencies": {
     "react": ">=17"
+  },
+  "publishConfig": {
+    "@ZenTwipped:registry": "https://npm.pkg.github.com"
   }
 }
