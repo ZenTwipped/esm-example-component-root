@@ -12,5 +12,9 @@
   },
   "publishConfig": {
     "@ZenTwipped:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZenTwipped/webpack-esm-component-root.git"
   }
 }
